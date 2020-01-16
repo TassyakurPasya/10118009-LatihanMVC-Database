@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/netbeans/LatihanMVCJDBC/src/edu/tassyakurpasya/latihanmvcjdbc/impl/PelangganDaoImpl.java</file>
+            <file>file:/D:/netbeans/LatihanMVCJDBC/src/edu/tassyakurpasya/latihanmvcjdbc/view/MainViewPelanggan.java</file>
+            <file>file:/D:/netbeans/LatihanMVCJDBC/src/edu/tassyakurpasya/latihanmvcjdbc/controller/PelangganControler.java</file>
+            <file>file:/D:/netbeans/LatihanMVCJDBC/src/edu/tassyakurpasya/latihanmvcjdbc/error/PelangganException.java</file>
+            <file>file:/D:/netbeans/LatihanMVCJDBC/src/edu/tassyakurpasya/latihanmvcjdbc/database/KingBarberShopDatabase.java</file>
+            <file>file:/D:/netbeans/LatihanMVCJDBC/src/edu/tassyakurpasya/latihanmvcjdbc/main/LatihanMVCJDBC.java</file>
+            <file>file:/D:/netbeans/LatihanMVCJDBC/src/edu/tassyakurpasya/latihanmvcjdbc/view/PelangganView.java</file>
+            <file>file:/D:/netbeans/LatihanMVCJDBC/src/edu/tassyakurpasya/latihanmvcjdbc/model/PelangganModel.java</file>
+            <file>file:/D:/netbeans/LatihanMVCJDBC/src/edu/tassyakurpasya/latihanmvcjdbc/model/TabelPelangganModel.java</file>
+            <file>file:/D:/netbeans/LatihanMVCJDBC/src/edu/tassyakurpasya/latihanmvcjdbc/event/PelangganListener.java</file>
+        </group>
+    </open-files>
+</project-private>
